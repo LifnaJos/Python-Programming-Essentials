@@ -62,6 +62,36 @@
 
 [2. Pandas](https://github.com/LifnaJos/PythonProgramming/blob/main/M6_2_Pandas%20in%20Python.ipynb)
 
+## Text Books & References :
+
+1. Dr. R. Nageswara Rao, “Core Python Programming”, Dreamtech Press
+2. Beginning Python: Using Python 2.6 and Python 3.1. James Payne, Wrox Publication
+3. Anurag Gupta, G. P. Biswas, “Python Programming”, McGraw-Hill
+4. E. Balagurusamy, “Introduction to computing and problem-solving using python”, McGraw Hill Education
+5. Learn Python the Hard Way, 3rd Edition, Zed Shaw's Hard Way Series
+6. Laura Cassell, Alan Gauld, “Python Projects”, Wrox Publication
+
+## Free Python Online Courses
+
+[1. Learn Python- Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+[2. Learn Python Course](https://www.learnpython.org/)
+
+[3. DataCamp Python Programming Course](https://www.datacamp.com/tracks/python-programming)
+
+[4. Google Python Class](https://developers.google.com/edu/python/)
+
+[5. Official Docs Tutorial](https://docs.python.org/3/tutorial/index.html)
+
+[6. NumPy Tutorial](https://www.pythonprogramming.in/numpy-tutorial-with-examples-and-solutions.html)
+
+## Online Python Editors : 	
+
+* [Tutorial Point](https://www.tutorialspoint.com/execute_python_online.php)
+
+* [Programiz](https://www.programiz.com/python-programming/online-compiler/)
+
+* [Onlinegdb](https://www.onlinegdb.com/online_python_compiler)
 
 ## Acknowledgemnts
 * This material was prepared as a part of Course Title : **Skill Base Lab Course: Python Programming**
