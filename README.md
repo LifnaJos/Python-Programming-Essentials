@@ -48,6 +48,8 @@
 
 [3. Networking in Python](https://github.com/LifnaJos/PythonProgramming/blob/main/Python%20Notebooks/M4_3_Python_Network_Programming.ipynb)
 
+- [Theory on Network Fundamentals](https://github.com/LifnaJos/Python-Programming-Essentials/blob/main/Python%20Notebooks/Network_final.pdf)
+
 [4. Django Cookbook](https://github.com/LifnaJos/PythonProgramming/blob/main/Python%20Notebooks/M4_4_Django-Cookbook.pdf)
 
 **Module  - 5 : Multithreading**
