@@ -96,5 +96,4 @@
 * [Onlinegdb](https://www.onlinegdb.com/online_python_compiler)
 
 ## Acknowledgemnts
-* This material was prepared as a part of Course Title : **Skill Base Lab Course: Python Programming**
-* Offered by the **University of Mumbai** to the Second Year Students of Branches of **Computer Engineering and Artifical Intelligence & Data Science**.
+* This material was prepared as a part of Course Title : **Skill Base Lab Course: Python Programming** Offered by the **University of Mumbai** to the Second Year Students of Branches of **Computer Engineering and Artifical Intelligence & Data Science**.
